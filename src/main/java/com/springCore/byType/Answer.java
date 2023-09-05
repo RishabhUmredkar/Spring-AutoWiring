@@ -1,4 +1,4 @@
-package com.springCore.byName;
+package com.springCore.byType;
 
 public class Answer {
 

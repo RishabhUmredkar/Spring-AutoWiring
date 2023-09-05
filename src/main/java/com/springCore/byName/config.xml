@@ -13,6 +13,6 @@
 </bean> 
   
   
-  <bean id ="Emp" class="com.springCore.byName.Employee" autowire="byName"/>
+<bean id ="Employee" class="com.springCore.byName.Employee" autowire="byName"/>
   
 </beans>
